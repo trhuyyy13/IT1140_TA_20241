@@ -1,0 +1,15 @@
+# Loại trừ các file và thư mục của Dev-C++
+*.o
+*.exe
+*.gch
+*.obj
+*.dSYM
+
+# Loại trừ thư mục .vscode
+.vscode/
+
+# Loại trừ thư mục .git
+.git/
+
+# Loại trừ file hệ thống của macOS
+.DS_Store
